@@ -3,3 +3,8 @@ github.com/elazarl/goproxy v0.0.0-20201021153353-00ad82a08272/go.mod h1:Ro8st/El
 github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2 h1:dWB6v3RcOy03t/bUadywsbyrQwCqZeNIEX6M1OtSZOM=
 github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2/go.mod h1:gNh8nYJoAm43RfaxurUnxr+N1PwuFV3ZMl/efxlIlY8=
 github.com/rogpeppe/go-charset v0.0.0-20180617210344-2471d30d28b4/go.mod h1:qgYeAmZ5ZIpBWTGllZSQnw97Dj+woV0toclVaRGI8pc=
+github.com/smartystreets/assertions v1.2.0/go.mod h1:tcbTF8ujkAEcZ8TElKY+i30BzYlVhC/LOxJk7iOWnoo=
+github.com/smartystreets/cproxy v1.0.3 h1:iL5mGkAdyT37BP6G8vmrZNyNvo1ZF58Rt009Vyf5G+g=
+github.com/smartystreets/cproxy/v2 v2.0.3 h1:2QZt+pcC7s114RJyv2sie3te7EYaAkMgTU7t/pjND8A=
+github.com/smartystreets/cproxy/v2 v2.0.3/go.mod h1:6vp0ha5Zwl83i12bH5v484+dXLZqb9OSDqioTL5w7Yg=
+github.com/smartystreets/gunit v1.4.2/go.mod h1:ZjM1ozSIMJlAz/ay4SG8PeKF00ckUp+zMHZXV9/bvak=

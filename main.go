@@ -9,6 +9,11 @@ import (
 )
 
 func main() {
+
+	if initCproxy() {
+		return
+	}
+
 	verbose := flag.Bool("v", false, "should every proxy request be logged to stdout")
 	addr := flag.String("addr", ":8090", "proxy listen address")
 	flag.Parse()
