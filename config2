@@ -10,3 +10,10 @@ update-url = https://raw.githubusercontent.com/eHpo1/Rules/master/Shadowrocket/M
 [Rule]
 DOMAIN,frp5.seungyu.cn,PROXY
 DOMAIN,45.153.43.13,PROXY
+
+
+[Script]
+EmbyPremiere = type=http-response,script-path=https://1ae899e1a336.ngrok.io/other/js/emby.js,pattern=^https?:\/\/mb3admin.com\/admin\/service\/registration\/validateDevice,max-size=131072,requires-body=true,timeout=10,enable=true
+
+[MITM]
+hostname = mb3admin.com
